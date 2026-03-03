@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Trees -->
+  <project path="device/motorola/milanf"
+           remote="github"
+           name="LineageOS/android_device_motorola_milanf"
+           revision="lineage-23.2" />
+  <project path="device/motorola/sm6375-common"
+           remote="github"
+           name="LineageOS/android_device_motorola_sm6375-common"
+           revision="lineage-23.2" />
+
+  <!-- Kernel Trees -->
+  <project path="kernel/motorola/sm6375"
+           remote="github"
+           name="LineageOS/android_kernel_motorola_sm6375"
+           revision="lineage-23.2" />
+
+  <!-- Vendor Trees -->
+  <project path="vendor/motorola/milanf"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_motorola_milanf"
+           revision="lineage-23.2" />
+  <project path="vendor/motorola/sm6375-common"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_motorola_sm6375-common"
+           revision="lineage-23.2" />
+
+  <!-- Extra Trees -->
+  <project path="hardware/motorola"
+           remote="github"
+           name="LineageOS/android_hardware_motorola"
+           revision="lineage-23.2" />
+</manifest>
