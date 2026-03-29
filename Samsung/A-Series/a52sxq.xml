@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="crdroidandroid/android_device_samsung_sm7325-common" path="device/samsung/sm7325-common" remote="github" revision="16.0-a52sxq"/>
+    <project name="crdroidandroid/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" remote="github" revision="16.0"/>
+    <project name="crdroidandroid/vendor_bcr" path="vendor/bcr" remote="github" revision="16.0"/>
+    <project name="anhdat1024/packages_apps_GameBar" path="packages/apps/GameBar" remote="github" revision="16.0"/>
+</manifest>
