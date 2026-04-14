@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device -->
+  <project path="device/realme/salaa"
+           remote="github"
+           name="elohim-etz/android_device_realme_RM6785"
+           revision="bka-qpr2" />
+
+  <!-- Kernel -->
+  <project path="kernel/realme/salaa"
+           remote="github"
+           name="Evolution-X-Devices/kernel_realme_salaa"
+           revision="bka" />
+
+  <!-- Vendor Blobs -->
+  <project path="vendor/realme/salaa"
+           remote="github"
+           name="EvilAnsh/proprietary_vendor_realme_salaa"
+           revision="bka" />
+
+  <!-- MediaTek SEPolicy (Vendor) -->
+  <project path="device/mediatek/sepolicy_vndr"
+           remote="github"
+           name="crdroidandroid/android_device_mediatek_sepolicy_vndr"
+           revision="16.0" />
+
+  <!-- MediaTek Hardware -->
+  <project path="hardware/mediatek"
+           remote="github"
+           name="crdroidandroid/android_hardware_mediatek"
+           revision="16.0" />
+
+  <!-- Oplus Trees -->
+  <!-- <project path="hardware/oplus"
+           remote="github"
+           name="LineageOS/android_hardware_oplus"
+           revision="lineage-23.2" /> -->
+</manifest>
