@@ -4,6 +4,15 @@
   <!-- Device tree and SoC common tree -->
   <project path="device/xiaomi/veux" name="CaesiumOS/device_xiaomi_veux" remote="github" revision="lineage-23.2"/>
   <project path="device/xiaomi/sm6375-common" name="CaesiumOS/device_xiaomi_sm6375-common" remote="github" revision="lineage-23.2"/>
+  <!-- Vendor Trees -->
+  <project path="vendor/xiaomi/veux"
+           remote="github"
+           name="UnstableMetals/proprietary_vendor_xiaomi_veux"
+           revision="main" />
+  <project path="vendor/xiaomi/sm6375-common"
+           remote="github"
+           name="UnstableMetals/proprietary_vendor_xiaomi_sm6375-common"
+           revision="main" />
   <!-- Extra Trees -->
   <project path="hardware/xiaomi"
            remote="github"
