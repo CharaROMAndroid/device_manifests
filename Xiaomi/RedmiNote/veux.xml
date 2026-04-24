@@ -7,11 +7,11 @@
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/veux"
            remote="github"
-           name="UnstableMetals/proprietary_vendor_xiaomi_veux"
+           name="UnstableMetals/vendor_xiaomi_veux"
            revision="main" />
   <project path="vendor/xiaomi/sm6375-common"
            remote="github"
-           name="UnstableMetals/proprietary_vendor_xiaomi_sm6375-common"
+           name="UnstableMetals/vendor_xiaomi_sm6375-common"
            revision="main" />
   <!-- Extra Trees -->
   <project path="hardware/xiaomi"
