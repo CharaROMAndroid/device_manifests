@@ -4,6 +4,11 @@
   <!-- Device tree and SoC common tree -->
   <project path="device/xiaomi/veux" name="CaesiumOS/device_xiaomi_veux" remote="github" revision="lineage-23.2"/>
   <project path="device/xiaomi/sm6375-common" name="CaesiumOS/device_xiaomi_sm6375-common" remote="github" revision="lineage-23.2"/>
+<!-- Kernel Trees -->
+  <project path="kernel/xiaomi/sm6375"
+           remote="github"
+           name="CaesiumOS/kernel_xiaomi_sm6375"
+           revision="16-qpr2" />
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/veux"
            remote="github"
