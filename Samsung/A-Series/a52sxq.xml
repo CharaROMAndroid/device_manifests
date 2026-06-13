@@ -3,5 +3,6 @@
     <project name="crdroidandroid/android_device_samsung_sm7325-common" path="device/samsung/sm7325-common" remote="github" revision="16.0-a52sxq"/>
     <project name="crdroidandroid/proprietary_vendor_samsung_a52sxq" path="vendor/samsung/a52sxq" remote="github" revision="16.0"/>
     <project name="crdroidandroid/proprietary_vendor_samsung_sm7325-common" path="vendor/samsung/sm7325-common" remote="github" revision="16.0"/>
+    <project name="crdroidandroid/android_hardware_samsung" path="hardware/samsung" remote="github" revision="16.0"/>
     <project name="anhdat1024/packages_apps_GameBar" path="packages/apps/GameBar" remote="github" revision="16.0"/>
 </manifest>
