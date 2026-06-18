@@ -7,6 +7,7 @@ Devices supported:<br>
 `milanf` - Motorola Moto G Stylus 5G (2022) - Maintained by Chara<br>
 `veux` - Redmi Note 11 Pro 5G / POCO X4 Pro 5G - Maintained by JPB<br>
 `ginkgo` - Redmi Note 8 - Maintained by JPB<br>
+`willow` - Redmi Note 8T - Maintained by JPB - uses same repositories as `ginkgo` as they are the same device, only difference is that the 8T has NFC<br>
 `a52sxq` - Samsung Galaxy A52s 5G (SM-A528B, SM-A528N, SM-A528B/DS) - Maintained upstream, built by Chara
 
 Devices in repo that aren't supported (yet):<br>
