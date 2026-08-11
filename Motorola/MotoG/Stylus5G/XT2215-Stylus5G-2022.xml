@@ -2,12 +2,13 @@
 <manifest>
   <!-- Device Trees -->
   <project path="device/motorola/milanf"
-           remote="chararom"
-           name="CharaROMAndroid/android_device_motorola_milanf" />
-
+           remote="github"
+           name="CharaROMAndroid/android_device_motorola_milanf"
+           revision="hershey" />
   <project path="device/motorola/sm6375-common"
-           remote="chararom"
-           name="CharaROMAndroid/android_device_motorola_sm6375-common" />
+           remote="github"
+           name="CharaROMAndroid/android_device_motorola_sm6375-common"
+           revision="hershey" />
 
   <!-- Kernel Trees -->
   <project path="kernel/motorola/sm6375"
