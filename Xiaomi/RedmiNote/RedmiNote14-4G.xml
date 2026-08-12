@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="codeberg"
+        fetch="https://codeberg.org" />
+
+    <remote name="hlcyn"
+        fetch="https://git.hlcyn.org" />
+
+    <!-- Device trees -->
+    <project name="CharaROMAndroid/android_device_xiaomi_tanzanite" path="device/xiaomi/tanzanite" remote="github" revision="main" />
+    <project name="CharaROMAndroid/android_device_xiaomi_tanzanite-kernel" path="device/xiaomi/tanzanite-kernel" remote="github" revision="main" />
+
+    <!-- Vendor -->
+    <project name="nathannxx/proprietary_vendor_xiaomi_tanzanite" path="vendor/xiaomi/tanzanite" remote="codeberg" revision="main" />
+    <project name="halcyonlv/vendor_mediatek_ims" path="vendor/mediatek/ims" remote="hlcyn" revision="main" />
+
+    <!-- Hardware -->
+    <project name="halcyonproject/hardware_mediatek" path="hardware/mediatek" remote="github" revision="main" />
+    <project name="halcyonproject/hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="main" />
+
+    <!-- Sepolicy -->
+    <project name="halcyonproject/device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="main" />
+
+</manifest>
