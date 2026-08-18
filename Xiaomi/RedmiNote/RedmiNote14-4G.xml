@@ -12,8 +12,10 @@
     <project name="CharaROMAndroid/android_device_xiaomi_tanzanite-kernel" path="device/xiaomi/tanzanite-kernel" remote="github" revision="hershey" />
 
     <!-- Vendor -->
-    <project name="nathannxx/proprietary_vendor_xiaomi_tanzanite" path="vendor/xiaomi/tanzanite" remote="codeberg" revision="sixteen-qpr2" />
-    <project name="halcyonlv/vendor_mediatek_ims" path="vendor/mediatek/ims" remote="hlcyn" revision="16.2" />
+    <project name="cinnamonbunni/proprietary_vendor_xiaomi_tanzanite" path="vendor/xiaomi/tanzanite" remote="codeberg" revision="sixteen-qpr2" />
+
+    <!-- Common Kernel Tree -->
+    <project name="MillenniumOSS/android_device_millennium_common-kernel" path="device/millennium/common-kernel" remote="github" revision="seventeen" />
 
     <!-- Hardware -->
     <project name="halcyonproject/hardware_mediatek" path="hardware/mediatek" remote="github" revision="16.2" />
