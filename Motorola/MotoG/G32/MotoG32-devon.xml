@@ -14,7 +14,7 @@
   <project path="kernel/motorola/sm6225"
            remote="github"
            name="DeterminationPeak/kernel_motorola_sm6225"
-           revision="hershey" />
+           revision="lineage-23.2" />
 
   <!-- Vendor Trees -->
   <project path="vendor/motorola/devon"
@@ -30,5 +30,5 @@
   <project path="hardware/motorola"
            remote="github"
            name="halcyonproject/android_hardware_motorola"
-           revision="lineage-23.2" />
+           revision="16.2" />
 </manifest>
