@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Trees -->
+  <project path="device/xiaomi/surya"
+           remote="github"
+           name="crdroidandroid/android_device_xiaomi_surya"
+           revision="16.0" />
+  <!-- Kernel Trees -->
+  <project path="kernel/xiaomi/surya"
+           remote="github"
+           name="crdroidandroid/android_kernel_xiaomi_surya"
+           revision="16.0" />
+  <!-- Vendor Trees -->
+  <project path="vendor/xiaomi/surya"
+           remote="github"
+           name="crdroidandroid/proprietary_vendor_xiaomi_surya"
+           revision="16.0" />
+  <!-- Extra Trees -->
+  <project path="hardware/xiaomi"
+           remote="github"
+           name="crdroidandroid/android_hardware_xiaomi"
+           revision="16.0" />
+</manifest>
