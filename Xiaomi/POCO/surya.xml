@@ -13,8 +13,8 @@
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/surya"
            remote="github"
-           name="crdroidandroid/proprietary_vendor_xiaomi_surya"
-           revision="16.0" />
+           name="nothinghere69/proprietary_vendor_xiaomi_surya"
+           revision="lineage-23.2" />
   <!-- Extra Trees -->
   <project path="hardware/xiaomi"
            remote="github"
