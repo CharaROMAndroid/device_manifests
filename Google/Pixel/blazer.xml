@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Trees -->
+  <project path="device/google/muzel"
+           remote="github"
+           name="LineageOS/android_device_google_muzel"
+           revision="lineage-23.2" />
+  <project path="device/google/laguna"
+           remote="github"
+           name="LineageOS/android_device_google_laguna"
+           revision="lineage-23.2" />
+  <!-- Vendor Trees -->
+  <project path="vendor/google/blazer"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_google_blazer"
+           revision="lineage-23.2" />
+  <!-- Extra Trees -->
+  <project path="hardware/google/pixel"
+           remote="github"
+           name="LineageOS/android_hardware_google_pixel"
+           revision="lineage-23.2" />
+</manifest>
