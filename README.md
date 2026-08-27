@@ -9,7 +9,8 @@ Devices supported:<br>
 `ginkgo` - Redmi Note 8 - Maintained by JPB<br>
 `willow` - Redmi Note 8T - Maintained by JPB - uses same repositories as `ginkgo` as they are the same device, only difference is that the 8T has NFC<br>
 `a52sxq` - Samsung Galaxy A52s 5G (SM-A528B, SM-A528N, SM-A528B/DS) - Maintained upstream, built by Chara<br>
-`peridot` - Lenovo Idea Pad Pro/Lenovo Xiaoxin Pad Pro 12.7"/Moto Pad 60 Pro - Maintained by JPB
+`peridot` - Lenovo Idea Pad Pro/Lenovo Xiaoxin Pad Pro 12.7"/Moto Pad 60 Pro - Maintained by JPB<br>
+`surya` - POCO X3 NFC - maintained upstream, built by JPB (for now)
 
 Devices in repo that aren't supported (yet):<br>
 `pdx237` - Sony Xperia 5V - maintained upstream by eepymeowers/Nora, no builds yet<br>
