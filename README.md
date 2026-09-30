@@ -16,6 +16,7 @@ Devices in repo that aren't supported (yet):<br>
 `pdx237` - Sony Xperia 5V - maintained upstream by eepymeowers/Nora, no builds yet<br>
 `salaa` - Realme 7/Narzo 20 Pro/Narzo 30 4G - manifest in progress<br>
 `guacamoleb` - OnePlus 7 - manifest maintained by eepymeowers/Nora, no builds yet<br>
+`mona` - Moto G Stylus (2025) - Maintained by Chara, bringup in progress<br>
 `bluejay` - Pixel 6a - manifest maintained by JPB; waiting for Pixel kernel bringup<br>
 `blazer` - Pixel 10 Pro - manifest maintained by JPB; waiting for Pixel kernel bringup
 
