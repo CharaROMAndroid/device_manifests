@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="charagit-mona" fetch="https://git.chararom.xyz" />
+  <project path="device/motorola/mona" name="CharaROMAndroid/android_device_motorola_mona" remote="charagit-mona" revision="lineage-23.2-chararom" />
+  <project path="device/motorola/sm6475-common" name="CharaROMAndroid/android_device_motorola_sm6475-common" remote="charagit-mona" revision="lineage-23.2-chararom" />
+  <project path="vendor/motorola/mona" name="CharaROMAndroid/proprietary_vendor_motorola_mona" remote="charagit-mona" revision="lineage-23.2-chararom" />
+  <project path="vendor/motorola/sm6475-common" name="CharaROMAndroid/proprietary_vendor_motorola_sm6475-common" remote="charagit-mona" revision="lineage-23.2-chararom" />
+  <project path="kernel/motorola/sm6475" name="CharaROMAndroid/android_kernel_motorola_sm7435" remote="charagit-mona" revision="lineage-23.2-6.6" clone-depth="1" />
+  <project path="kernel/motorola/sm6475-modules" name="CharaROMAndroid/android_kernel_motorola_sm7435-modules" remote="charagit-mona" revision="lineage-23.2-6.6" clone-depth="1" />
+  <project path="kernel/motorola/sm6475-devicetrees" name="CharaROMAndroid/android_kernel_motorola_sm7435-devicetrees" remote="charagit-mona" revision="lineage-23.2-6.6" clone-depth="1" />
+  <remove-project name="LineageOS/android_hardware_lineage_interfaces" />
+  <project path="hardware/lineage/interfaces" name="CharaROMAndroid/android_hardware_lineage_interfaces" remote="charagit-mona" revision="lineage-23.2-chararom" />
+</manifest>
