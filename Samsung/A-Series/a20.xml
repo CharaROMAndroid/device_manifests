@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="a20-user-github" fetch="https://github.com" />
+  <project name="CharaROMAndroid/android_device_samsung_a20" path="device/samsung/a20" remote="charagit-a20" revision="truffles" />
+  <project name="CharaROMAndroid/android_device_samsung_exynos7885-common" path="device/samsung/exynos7885-common" remote="charagit-a20" revision="truffles" />
+  <project name="CharaROMAndroid/android_kernel_samsung_exynos7885" path="kernel/samsung/exynos7885" remote="charagit-a20" revision="truffles" />
+  <project name="CharaROMAndroid/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" remote="charagit-a20" revision="truffles" />
+  <project name="CharaROMAndroid/android_vendor_samsung_a20" path="vendor/samsung/a20" remote="charagit-a20" revision="bumblebee" />
+  <project name="Roynas-Android-Playground/vendor_samsung_exynos7885-common" path="vendor/samsung/exynos7885-common" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="CharaROMAndroid/android_hardware_samsung-extra_interfaces" path="hardware/samsung-ext/interfaces" remote="charagit-a20" revision="truffles" />
+  <project name="CharaROMAndroid/android_hardware_samsung" path="hardware/samsung" remote="charagit-a20" revision="truffles" />
+  <project name="Roynas-Android-Playground/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="krazey/ims" path="packages/apps/PhhIms" remote="a20-user-github" revision="main" />
+  <project name="ewan-xu/AEC3" path="packages/apps/PhhIms/app/jni/webrtc-aec3" remote="a20-user-github" revision="6b11f0f31cd10f6bf68025ccad771f545d87dbce" />
+  <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="a20-user-github" revision="lineage-24.0" />
+  <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="a20-user-github" revision="lineage-24.0" />
+  <remote name="charagit-a20" fetch="https://git.chararom.xyz" />
+  <project name="abseil/abseil-cpp" path="packages/apps/PhhIms/app/jni/webrtc-aec3/base/abseil" remote="a20-user-github" revision="852fc61f31b3d68df58ba6a167dff73fee04558f" />
+</manifest>
