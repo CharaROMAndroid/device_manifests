@@ -4,28 +4,28 @@
   <project path="device/xiaomi/ginkgo"
            remote="github"
            name="LineageOS/android_device_xiaomi_ginkgo"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
   <project path="device/xiaomi/sm6125-common"
            remote="github"
            name="LineageOS/android_device_xiaomi_sm6125-common"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
   <!-- Kernel Trees -->
   <project path="kernel/xiaomi/sm6125"
            remote="github"
            name="LineageOS/android_kernel_xiaomi_sm6125"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/ginkgo"
            remote="github"
            name="TheMuppets/proprietary_vendor_xiaomi_ginkgo"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
   <project path="vendor/xiaomi/sm6125-common"
            remote="github"
            name="TheMuppets/proprietary_vendor_xiaomi_sm6125-common"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
   <!-- Extra Trees -->
   <project path="hardware/xiaomi"
            remote="github"
            name="LineageOS/android_hardware_xiaomi"
-           revision="lineage-23.2" />
+           revision="lineage-24.0" />
 </manifest>
