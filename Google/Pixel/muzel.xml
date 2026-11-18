@@ -14,6 +14,14 @@
            remote="github"
            name="TheMuppets/proprietary_vendor_google_blazer"
            revision="lineage-24.0" />
+  <project path="vendor/google/frankel"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_google_frankel"
+           revision="lineage-24.0" />
+  <project path="vendor/google/mustang"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_google_mustang"
+           revision="lineage-24.0" />
   <!-- Extra Trees -->
   <project path="hardware/google/pixel"
            remote="github"
