@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/amazon/sunstone" name="LineageOS/android_device_amazon_sunstone"/>
+
+  <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" />
+
+  <project path="kernel/amazon/mt8188" name="LineageOS/android_kernel_amazon_mt8188" />
+
+  <project path="hardware/amazon" name="LineageOS/android_hardware_amazon" />
+  <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek" />
+
+  <project path="vendor/amazon/sunstone" name="TheMuppets/proprietary_vendor_amazon_sunstone" />
+</manifest>
