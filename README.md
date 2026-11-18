@@ -18,6 +18,7 @@ Devices in repo that aren't supported (yet):<br>
 `guacamoleb` - OnePlus 7 - manifest maintained by eepymeowers/Nora, no builds yet<br>
 `mona` - Moto G Stylus (2025) - Maintained by Chara, bringup in progress<br>
 `bluejay` - Pixel 6a - manifest maintained by JPB; waiting for Pixel kernel bringup<br>
-`blazer` - Pixel 10 Pro - manifest maintained by JPB; waiting for Pixel kernel bringup
+`blazer` - Pixel 10 Pro - manifest maintained by JPB; waiting for Pixel kernel bringup<br>
+`sunstone` - Fire Max 11 - maintained by JPB; build nearly succeeded but having issues due to partition size
 
 More devices will eventually be added here...
