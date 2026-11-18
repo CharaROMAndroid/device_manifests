@@ -18,6 +18,6 @@
   <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" remote="a20-user-github" revision="lineage-24.0" />
   <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" remote="a20-user-github" revision="lineage-24.0" />
   <project name="Roynas-Android-Playground/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" remote="a20-user-github" revision="lineage-24.0" />
-  <remote name="charagit-a20" fetch="https://git.chararom.xyz" />
+  <remote name="charagit-a20" fetch="https://github.com" />
   <project name="abseil/abseil-cpp" path="packages/apps/PhhIms/app/jni/webrtc-aec3/base/abseil" remote="a20-user-github" revision="852fc61f31b3d68df58ba6a167dff73fee04558f" />
 </manifest>
